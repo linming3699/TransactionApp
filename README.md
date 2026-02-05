@@ -16,17 +16,17 @@ TransactionApp是以「開發一款讓一家人一起記帳」的程式為目的
 統計查詢結果的總金額(開發中)
 ## 介面展示
 1.登入畫面
-<img width="2553" height="1273" alt="image" src="https://github.com/user-attachments/assets/b11be54c-9205-46eb-8568-0005755f4af9" />
+<img width="2552" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dd866c0-b566-43b4-aeb7-2d7e8dedf5fc" />
 2.註冊畫面
-<img width="2546" height="1275" alt="image" src="https://github.com/user-attachments/assets/204d512c-cc92-4979-84ab-e2bf41123ee8" />
+<img width="2547" height="1277" alt="image" src="https://github.com/user-attachments/assets/01151ba6-fcba-4eb9-bdb6-280df9cc8c23" />
 3.查詢介面
-<img width="2539" height="1274" alt="image" src="https://github.com/user-attachments/assets/a281fa65-d7ff-44b6-9986-93f0f76b7199" />
-<img width="2546" height="1267" alt="image" src="https://github.com/user-attachments/assets/b7b657da-c660-4d2b-ad74-1863521f2745" />
-<img width="2545" height="1272" alt="image" src="https://github.com/user-attachments/assets/8a147b91-ae4e-422d-becd-b4cdbb13895d" />
-<img width="2543" height="1271" alt="image" src="https://github.com/user-attachments/assets/e1e99c6c-257f-4140-aca9-c011e9f4abd9" />
+<img width="2533" height="1269" alt="image" src="https://github.com/user-attachments/assets/c220f1c6-6f0a-45b8-8e74-484ef0453b5d" />
+<img width="2546" height="1120" alt="image" src="https://github.com/user-attachments/assets/b5cf3ba3-045d-4490-9d0b-2e22d4b0018d" />
+<img width="2547" height="1126" alt="image" src="https://github.com/user-attachments/assets/8b2c4437-e97d-41f0-97c9-41caa18979bf" />
+<img width="2541" height="1116" alt="image" src="https://github.com/user-attachments/assets/985f3874-2947-46d1-81d4-3c7b068ac34c" />
 4.新增介面
-<img width="2547" height="1120" alt="image" src="https://github.com/user-attachments/assets/eee344ac-5ccf-457e-a33d-e0a6415aaddf" />
+<img width="2551" height="1125" alt="image" src="https://github.com/user-attachments/assets/8db4b824-9daa-49f9-9799-c052d7701a80" />
 5.修改介面
-<img width="2551" height="1117" alt="image" src="https://github.com/user-attachments/assets/b34f9f2e-84df-42bd-b1c2-978ee7e78ac9" />
+<img width="2554" height="1114" alt="image" src="https://github.com/user-attachments/assets/88fa8f86-32d9-4eb9-aca9-bb076dac4dd2" />
 6.刪除介面
-<img width="2542" height="1120" alt="image" src="https://github.com/user-attachments/assets/e54d3726-0271-408d-be37-7542a85398d1" />
+<img width="2548" height="1117" alt="image" src="https://github.com/user-attachments/assets/e5ef93de-9a30-4632-88b7-6371a8d36fd2" />
