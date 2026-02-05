@@ -1,0 +1,97 @@
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+a, a:visited {
+    color: #1e90ff;
+}
+
+    a:hover {
+        color: #63b3ed;
+    }
+
+/* Navbar */
+.navbar {
+    background-color: #1a1a1a !important;
+}
+
+    .navbar .nav-link {
+        color: #ffffff !important;
+    }
+/* Footer */
+footer.footer {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+    footer.footer a {
+        color: #1e90ff;
+    }
+
+        footer.footer a:hover {
+            color: #63b3ed;
+        }
+body.dark-mode {
+    font-family: "Segoe UI", "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+    body.dark-mode h1,
+    body.dark-mode h2,
+    body.dark-mode h3,
+    body.dark-mode h4,
+    body.dark-mode h5,
+    body.dark-mode h6,
+    body.dark-mode p,
+    body.dark-mode li,
+    body.dark-mode span,
+    body.dark-mode label,
+    body.dark-mode td,
+    body.dark-mode th {
+        color: #ffffff;
+    }
+
+    /* 所有連結 */
+    body.dark-mode a, body.dark-mode a:visited {
+        color: #1e90ff;
+    }
+
+        body.dark-mode a:hover {
+            color: #63b3ed;
+        }
+
+    /* Bootstrap 元件文字 */
+    body.dark-mode .navbar,
+    body.dark-mode .card,
+    body.dark-mode .table,
+    body.dark-mode .form-control,
+    body.dark-mode .btn {
+        color: #ffffff !important;
+        background-color: #1e1e1e !important;
+        border-color: #333333 !important;
+    }
+        body.dark-mode .navbar .navbar-brand {
+            color: #ffffff !important;
+        }
+
+            body.dark-mode .navbar .navbar-brand:hover,
+            body.dark-mode .navbar .navbar-brand:focus {
+                color: #ffffff !important;
+            }
+    body.dark-mode .validation-error {
+        color: orange !important;
+    }

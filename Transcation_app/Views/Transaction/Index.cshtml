@@ -1,0 +1,153 @@
+﻿@model TransactionIndexViewModel
+@{
+    ViewData["Title"] = "查詢";
+}
+
+<h1>@ViewData["Title"] </h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-danger">
+        新增項目
+    </a>
+   @*  <a asp-action="Create">新增項目</a> *@
+</p>
+@* <form asp-controller="Transaction" asp-action="Index" method="get">
+    <input type="text" name="keyword" placeholder="請輸入關鍵字" />
+    <button type="submit">搜尋</button>
+</form> *@
+
+<form method="get" class="mb-3 d-flex gap-2">
+    <input type="hidden" asp-for="Page" />
+    <input asp-for="Keyword" class="form-control w-25" placeholder="關鍵字" />
+
+    <select asp-for="Status" class="form-select w-25">
+        <option value="">全部狀態</option>
+        <option value="PENDING">處理中</option>
+        <option value="SUCCESS">已付款</option>
+        <option value="CANCEL">取消</option>
+    </select>
+
+    <input type="date" name="StartDate" value="@(Model.StartDate?.ToString("yyyy-MM-dd"))" class="form-control" />
+    <input type="date" name="EndDate" value="@(Model.EndDate?.ToString("yyyy-MM-dd"))" class="form-control" />
+
+    <select asp-for="Desc" class="form-select w-25">
+        <option value="">預設排序</option>
+        <option value="true">金額多到少</option>
+        <option value="false">金額少到多</option>
+    </select>
+
+    <button type="submit" class="btn btn-danger">搜尋</button>
+</form>
+
+
+<div class="table-responsive">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               項目
+            </th>
+            <th>
+               金額
+            </th>
+            <th>
+               狀態
+            </th>
+            <th>
+               更新者名稱
+            </th>
+            <th>
+                記錄時間
+            </th>
+            <th>
+                最後更新時間
+            </th>
+          
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Data) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Contents)
+            </td>
+                <td>@item.Amount.ToString("N0") 元</td>
+            <td>
+                    @if (item.Status == "PENDING")
+                    {
+                        <span>處理中</span>
+                    }
+                    else if (item.Status == "SUCCESS")
+                    {
+                        <span>已付款</span>
+                    }
+                    else
+                    {
+                        <span>取消</span>
+                    }
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.UpdateUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateDateTime)
+            </td>
+           
+           
+            <td>
+                    <a asp-action="Edit" class="btn btn-danger" asp-route-id="@item.Id">編輯內容</a> |
+                    <a asp-action="Details" class="btn btn-danger" asp-route-id="@item.Id">詳細資料</a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id">刪除</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+@* <nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center flex-wrap">
+        <!-- 上一頁 -->
+        <li class="page-item @(Model.Page == 1 ? "disabled" : "")">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="@(Model.Page - 1)"
+               asp-route-keyword="@Model.Keyword"
+               asp-route-status="@Model.Status"
+               asp-route-desc="@Model.Desc"
+               asp-route-startDate="@Model.StartDate"
+               asp-route-endDate="@Model.EndDate">上一頁</a>
+        </li>
+
+        <!-- 頁碼 -->
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.Page ? "active" : "")">
+                <a class="page-link"
+                   asp-action="Index"
+                   asp-route-page="@i"
+                   asp-route-keyword="@Model.Keyword"
+                   asp-route-status="@Model.Status"
+                   asp-route-desc="@Model.Desc"
+                   asp-route-startDate="@Model.StartDate"
+                   asp-route-endDate="@Model.EndDate">@i</a>
+            </li>
+        }
+
+        <!-- 下一頁 -->
+        <li class="page-item @(Model.Page == Model.TotalPages ? "disabled" : "")">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="@(Model.Page + 1)"
+               asp-route-keyword="@Model.Keyword"
+               asp-route-status="@Model.Status"
+               asp-route-desc="@Model.Desc"
+               asp-route-startDate="@Model.StartDate"
+               asp-route-endDate="@Model.EndDate">下一頁</a>
+        </li>
+    </ul>
+</nav> *@

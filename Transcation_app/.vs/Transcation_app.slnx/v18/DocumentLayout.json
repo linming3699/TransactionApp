@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\viewmodels\\transactionupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:viewmodels\\transactionupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|c:\\users\\user\\desktop\\code file\\transcation_app\\views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42838C87-37A4-EB88-7E6E-391BF1053D62}|Transcation_app.csproj|solutionrelative:views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "Dtos\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T07:34:21.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:50:39.312Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Services\\TransactionService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:42:25.087Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:33:17.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Login\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Login\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Login\\SignUp.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAQwKgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T09:59:04.393Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T11:13:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Details.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T11:11:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T08:12:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T08:02:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T07:48:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\ViewModels\\TransactionUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TransactionUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\ViewModels\\TransactionUpdateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TransactionUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:13:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T12:00:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:30:57.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T11:29:32.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Code File\\Transcation_app\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T08:13:07.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
